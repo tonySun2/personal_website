@@ -1,12 +1,61 @@
 ---
-title: "Coursework"
+#title: "Coursework"
 ---
 
-### UCLA
+## Relevant Coursework at UCLA
 
-- Math
 
-- STATS 140XP: Practice of Statistical Consulting *(Winter 2024)*
+##### Mathematics
+
+- Math 115A: Linear Algebra
+- Math 131A: Analysis I
+- Math 131B: Analysis II
+- Math 132: Complex Analysis for Applications
+- Math 151A: Applied Numerical Methods
+- Math 171: Stochastic Processes *(Spring 2024)*
+- Math 174E: Mathematics of Finance for Mathematics/Economics Students
+- Math 32A: Calculus of Several Variables
+- Math 32B: Calculus of Several Variables
+- Math 33A: Linear Algebra and Applications
+- Math 33B: Differential Equations
+- Math 42: Data-Driven Mathematical Modeling
+- Math 61: Discrete Structure
+
+##### Statistics
+
+- Math 170E: Probability and Statistics: Part 1 Probability
+- Math 170S: Probability and Statistics: Part 2 Statistics
+- Stats 100C: Linear Models
+- Stats 101A: Data Analysis and Regression
+- Stats 101B: Design and Analysis of Experiment
+- Stats 101C: Statistical Models and Data Mining
+- Stats 102A: Data Analysis and Regression
+- Stats 102B: Design and Analysis of Experiment *(Spring 2024)*
+- Stats 102C: Statistical Models and Data Mining *(Fall 2024)*
+- STATS 140XP: Practice of Statistical Consulting I 
+- STATS 141XP: Practice of Statistical Consulting II *(Spring 2024)*
+- Stats 10: Statistical Reasoning
+- Stats 20: Statistical Programming with R
+- Stats 21: Python and Other Technologies for Data Science
+
+
+
+##### Economics
+
+- Econ 101: Microeconomic Theory
+- Econ 102: Macroeconomic Theory
+- Econ 103: Introduction to Econometrics
+- Econ 106F: Finance
+- Econ 160: Money and Banking
+- Econ 162: Monetary Policy *(Spring 2024)*
+- Econ 11: Microeconomic Theory
+
+##### Computer Science
+
+- CS 31 Introduction to Computer Science I (C++)
+- PIC 10A: Introduction to Programming (C++)
+
+
 
 
 
