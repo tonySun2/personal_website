@@ -1,12 +1,9 @@
 ---
-title: "Wenhong Sun"
+toc: false
 ---
 
 
-This is a Quarto website.
+## Wenhong Sun
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 3
-```
