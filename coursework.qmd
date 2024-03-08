@@ -19,7 +19,7 @@
 - Math 33A: Linear Algebra and Applications
 - Math 33B: Differential Equations
 - Math 42: Data-Driven Mathematical Modeling
-- Math 61: Discrete Structure
+- Math 61: Discrete Structures
 
 ##### Statistics
 
@@ -32,8 +32,8 @@
 - Stats 102A: Data Analysis and Regression
 - Stats 102B: Design and Analysis of Experiment *(Spring 2024)*
 - Stats 102C: Statistical Models and Data Mining *(Fall 2024)*
-- STATS 140XP: Practice of Statistical Consulting I 
-- STATS 141XP: Practice of Statistical Consulting II *(Spring 2024)*
+- Stats 140XP: Practice of Statistical Consulting I 
+- Stats 141XP: Practice of Statistical Consulting II *(Spring 2024)*
 - Stats 10: Statistical Reasoning
 - Stats 20: Statistical Programming with R
 - Stats 21: Python and Other Technologies for Data Science
@@ -52,7 +52,7 @@
 
 ##### Computer Science
 
-- CS 31 Introduction to Computer Science I (C++)
+- CS 31: Introduction to Computer Science I (C++)
 - PIC 10A: Introduction to Programming (C++)
 
 
