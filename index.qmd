@@ -1,9 +1,29 @@
 ---
 toc: false
+about: 
+  template: trestles
+  links:
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/wenhong-tony-sun/
+    - icon: github
+      text: Github
+      url: https://github.com/tonySun2/
+    - icon: github
+      text: Github
+      url: https://github.com/tonySun2/  
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:whsunu@ucla.edu"
+image: Portrait.jpg
 ---
 
 
-## Wenhong Sun
+## Wenhong (Tony) Sun
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+About
+this is my bio
+
+
+
 

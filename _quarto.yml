@@ -2,21 +2,25 @@ project:
   type: website
 
 website:
-  #title: "Wenhong (Tony) Sun"
+  title: "Wenhong (Tony) Sun"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: Bio
-      - href: projects.qmd
-        text: About
+      - href: coursework.qmd
+        text: coursework
+  page-footer:
+    right: "&copy; 2024, Wenhong Tony Sun"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+
+
 
 execute: 
   freeze: auto

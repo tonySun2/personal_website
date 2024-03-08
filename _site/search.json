@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
     "section": "",
-    "text": "About this site"
+    "text": "UCLA\n\nMath\nSTATS 140XP: Practice of Statistical Consulting (Winter 2024)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Wenhong (Tony) Sun",
+    "section": "",
+    "text": "About this is my bio"
+  },
+  {
+    "objectID": "index.html#wenhong-tony-sun",
+    "href": "index.html#wenhong-tony-sun",
+    "title": "Wenhong (Tony) Sun",
+    "section": "",
+    "text": "About this is my bio"
   },
   {
     "objectID": "projects.html",
@@ -12,12 +26,5 @@
     "title": "Projects",
     "section": "",
     "text": "Here you can demonstrate your projects"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
   }
 ]
