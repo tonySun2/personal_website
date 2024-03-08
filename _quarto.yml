@@ -10,7 +10,7 @@ website:
       - href: about.qmd
         text: Bio
       - href: projects.qmd
-        text: An
+        text: About
 
 format:
   html:
@@ -18,5 +18,5 @@ format:
     css: styles.css
     toc: true
 
-
-
+execute: 
+  freeze: auto
