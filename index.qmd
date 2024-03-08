@@ -16,13 +16,13 @@ about:
       text: Email
       url: "mailto:whsunu@ucla.edu"
 title: "Wenhong (Tony) Sun"
-image: Portrait.jpg
+image: Portrait.jpeg
 ---
 
 ## Bio
-Hello, thanks for visiting my website. My name is Wenhong Sun. You can call me Tony.
+Hello and welcome to my website! I'm Wenhong Sun. You can also call me Tony.
 
-# Education
+## Education
 
 **University of California, Los Angeles** <br>
 B.S. in Mathematics/Economics (2021-Present) <br>
