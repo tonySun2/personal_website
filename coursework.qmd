@@ -12,8 +12,10 @@
 - Math 131B: Analysis II
 - Math 132: Complex Analysis for Applications
 - Math 151A: Applied Numerical Methods
+- Math 164: Optimization
 - Math 171: Stochastic Processes *(Spring 2024)*
 - Math 174E: Mathematics of Finance for Mathematics/Economics Students
+- Math 179: Advanced Topic in Financial Mathematics
 - Math 32A: Calculus of Several Variables
 - Math 32B: Calculus of Several Variables
 - Math 33A: Linear Algebra and Applications

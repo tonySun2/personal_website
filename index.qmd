@@ -9,9 +9,6 @@ about:
     - icon: github
       text: Github
       url: https://github.com/tonySun2/
-    - icon: github
-      text: Github
-      url: https://github.com/tonySun2/  
     - icon: inbox-fill
       text: Email
       url: "mailto:whsunu@ucla.edu"
