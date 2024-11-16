@@ -45,8 +45,6 @@
 - Stats 20: Introduction to Statistical Programming with R
 - Stats 21: Python and Other Technologies for Data Science
 
-
-
 #### **Economics**
 ###### Upper Division
 - Econ 101: Microeconomic Theory
@@ -67,7 +65,16 @@
 - PIC 10A: Introduction to Programming (C++)
 
 #### **General Education**
-...
+- Cluster 70A: Evolution of Cosmos and Life
+- Cluster 70B: Evolution of Cosmos and Life
+- Cluster 70CW: Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Science and Technology during Cold War
+- ENGCOMP 3: English Composition, Rhetoric, and Language
+- Pub Aff 10: Social Problems and Social Change
+- CHIN 50: Chinese Civilization
+- LING 1: Introduction to Study of Language
+- LBR STD 10: Introduction to Labor and Workplace Studies
+- CESC 50XP: Engaging Los Angeles
+
 
 
 
